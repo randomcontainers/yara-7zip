@@ -1,0 +1,5 @@
+# Generated from the combos section of randomcontainers/yara package.yml by randomcontainers/ci.
+# Do not edit; change package.yml in randomcontainers/yara instead.
+name: yara-7zip
+owner: yara
+with: [7zip]
